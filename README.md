@@ -1,5 +1,3 @@
-# my-folder
-# belloosagienoah
 <h2>Morning Challenge</h2>
 
 <ul>
